@@ -78,3 +78,10 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+# support
+google_analytics: UA-120810391-1
+
+# Sitemap
+sitemap:
+  path: sitemap.xml
